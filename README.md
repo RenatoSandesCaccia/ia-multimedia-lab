@@ -1,6 +1,9 @@
 # ia-multimedia-lab 🤖🎨
 Integración de Inteligencia Artificial y Prompt Engineering para la optimización de flujos de trabajo creativos.
 
+Link entrega final:
+https://drive.google.com/drive/folders/1WCBoHrY4YxpzxE_G_3U-mBTEReoh1YrG?usp=drive_link
+
 Creativo laboratorio de Inteligencia Artificial aplicada. verán resultados, investigaciones y pruebas de concepto enfocadas en integrar la IA generativa dentro de los flujos de trabajo de producción multimedial. Utilizando la ingeeniería d prompts (Prompt Engineering) de forma lógica y creativa para potenciar la creatividad de impacto. A través de:
  
 
